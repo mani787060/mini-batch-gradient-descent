@@ -100,12 +100,6 @@ A synthetic regression dataset generated using Scikit-Learn to demonstrate optim
 
 ---
 
-## 🏁 Conclusion
-
-Mini-Batch Gradient Descent is one of the most widely used optimization techniques in modern Machine Learning. By updating parameters using small batches of data, it achieves a good balance between computational efficiency and stable convergence, making it ideal for large-scale learning problems.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -113,3 +107,11 @@ Mini-Batch Gradient Descent is one of the most widely used optimization techniqu
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Mini-Batch Gradient Descent is one of the most widely used optimization techniques in modern Machine Learning. By updating parameters using small batches of data, it achieves a good balance between computational efficiency and stable convergence, making it ideal for large-scale learning problems.
+
+
